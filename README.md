@@ -27,6 +27,4 @@ Log Forwarding & Querying
 
 SOC Architecture Design
 
-### 🔍 Real-Time Attack Map
-![Attack Map Screenshot](C:\Users\Ekumb\OneDrive\Pictures\Screenshots\file 2)
-_Visualizing hacker activity using Sentinel and Log Analytics_
+
