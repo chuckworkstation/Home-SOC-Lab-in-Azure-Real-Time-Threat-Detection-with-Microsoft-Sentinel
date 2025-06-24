@@ -1,4 +1,4 @@
-Home-SOC-Lab-in-Azure-Real-Time-Threat-Detection-with-Microsoft-Sentinel
+# Home-SOC-Lab-in-Azure-Real-Time-Threat-Detection-with-Microsoft-Sentinel
 
 Overview:
 This hands-on lab simulates a real-world Security Operations Center (SOC) using a free Azure environment. I built a cloud-based honeypot, integrated Microsoft Sentinel, and visualized live attack data on a map to showcase key skills in cloud security, log analysis, and threat detection.
@@ -27,3 +27,6 @@ Log Forwarding & Querying
 
 SOC Architecture Design
 
+### 🔍 Real-Time Attack Map
+![Attack Map Screenshot](C:\Users\Ekumb\OneDrive\Pictures\Screenshots\file 2)
+_Visualizing hacker activity using Sentinel and Log Analytics_
