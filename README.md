@@ -1,0 +1,1 @@
+# Home-SOC-Lab-in-Azure-Real-Time-Threat-Detection-with-Microsoft-Sentinel
